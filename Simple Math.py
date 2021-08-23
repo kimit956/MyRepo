@@ -12,4 +12,4 @@ except ZeroDivisionError:
 
 divide1 = num1 / num2
 
-print("Sum:", sum1, "\tDifference:", diff1, "\tQuotient:", divide1)
+print("Sum:", sum1, "\tDifference:", diff1, "\tProduct:", prod1, "\tQuotient:", divide1)
