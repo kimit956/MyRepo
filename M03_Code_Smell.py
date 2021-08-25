@@ -1,5 +1,5 @@
 # Should play 3 rounds of rock, paper, scissors
-import random
+import random  # must import random because random does not come with python library
 
 name = input("What is your name?\n")
 win = 0
